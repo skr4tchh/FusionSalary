@@ -1,6 +1,6 @@
 name: FusionSalary
 version: '${version}'
-main: fun.fusionstudio.fusionsalary.FusionSalary
+main: ru.fusionstudio.fusionsalary.FusionSalary
 api-version: '1.16'
 author: Skr4tch
 depend: [Vault]

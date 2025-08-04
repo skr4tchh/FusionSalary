@@ -1,4 +1,4 @@
-package fun.fusionstudio.fusionsalary.utils;
+package ru.fusionstudio.fusionsalary.utils;
 
 import lombok.Getter;
 import lombok.experimental.UtilityClass;

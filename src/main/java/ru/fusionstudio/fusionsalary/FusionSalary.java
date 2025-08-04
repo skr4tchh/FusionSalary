@@ -1,7 +1,7 @@
-package fun.fusionstudio.fusionsalary;
+package ru.fusionstudio.fusionsalary;
 
-import fun.fusionstudio.fusionsalary.commands.SalaryCommand;
-import fun.fusionstudio.fusionsalary.managers.CooldownManager;
+import ru.fusionstudio.fusionsalary.commands.SalaryCommand;
+import ru.fusionstudio.fusionsalary.managers.CooldownManager;
 import lombok.Getter;
 import net.milkbowl.vault.permission.Permission;
 import org.bukkit.plugin.RegisteredServiceProvider;

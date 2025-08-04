@@ -1,4 +1,4 @@
-package fun.fusionstudio.fusionsalary.managers;
+package ru.fusionstudio.fusionsalary.managers;
 
 import org.bukkit.entity.Player;
 
