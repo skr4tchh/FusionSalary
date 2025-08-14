@@ -1,7 +1,7 @@
-package ru.fusionstudio.fusionsalary.commands;
+package fun.fusionmine.fusionsalary.commands;
 
-import ru.fusionstudio.fusionsalary.FusionSalary;
-import ru.fusionstudio.fusionsalary.utils.Utils;
+import fun.fusionmine.fusionsalary.FusionSalary;
+import fun.fusionmine.fusionsalary.utils.Utils;
 import lombok.AllArgsConstructor;
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandExecutor;
